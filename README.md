@@ -1,7 +1,7 @@
 # dpcpp
 Daipayan's C Preprocessor written in C++
 
-For compilation use: g++ -g -fno-stack-protector prep3_1.cpp datastructure.cpp
+For compilation use: g++ -g -fno-stack-protector dpcpp_3_1.cpp datastructure.cpp
 
 For running purpose use: ./a.out example.c
 
