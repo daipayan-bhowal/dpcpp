@@ -11,10 +11,14 @@ Important Note: For the preprocessor to work replace my header file in usr/inclu
 
 Features working are:-
 #include 
+
 comment removal
+
 convert multiline macro into one
+
 predefined macros such as __cplusplus etc.
 
 #undef
+
 #define
 
